@@ -1,2 +1,2 @@
 # handout
-All handouts will be here
+Click the Wiki tab to read the handouts
